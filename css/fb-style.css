@@ -1,0 +1,39 @@
+body{
+    background-color: #f4f4f4;
+    margin-bottom: 30px;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: #f4f4f4;
+}
+
+.texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    background-color: rgb(125, 201, 138);
+    padding: 20px;
+    border-style: ridge;
+    border-color: black;
+    border-width: 5px;
+}
+
+hr{
+    height: 10px;
+    background-color: grey;
+    border-color: black;
+}
+
+#top{
+    background-color: #f4f4f4;
+    padding: 0px 5px;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,154 @@
+
+#creado-por{
+    margin-top: 20px;
+    margin-left: 6%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #f4f4f4;
+}
+
+#paco-g{
+    margin-top: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 5%;
+    color: white;
+}
+
+body{
+    margin-bottom: 50px;
+}
+
+#creador{
+    padding: 5px 0px;
+    line-height: 0em;
+    background-color: rgb(2, 0, 131);
+    margin-bottom: 35px;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(128, 0, 0);
+}
+
+.paragraph{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: black;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+    background-color: white;
+    padding: auto;
+    border-style: ridge;
+    border-width: 3px;
+}
+
+#texto-inicial{
+    margin: auto;
+    text-align: center;
+    width: 95%;
+}
+
+hr{
+    background: yellow;
+    border-color: black;
+    height: 20px;
+    margin-bottom: 50px;
+}
+
+.red-social-background{
+    width: 80%;
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.titulo-red{
+    color: white;
+    font-size: 50px;
+}
+
+.p-red{
+    color: black;
+    font-size: 20px;
+}
+
+.box-insta{
+    background-color: rgb(238, 48, 238);
+    padding: 30px 20px;
+    border: black solid;
+    border-width: 10px;
+}
+
+.box-twitter{
+    background-color: rgb(59, 129, 235);
+    padding: 30px 20px;
+    border: black solid;
+    border-width: 10px;
+}
+
+.box-wa{
+    background-color: rgb(8, 116, 13);
+    padding: 30px 20px;
+    border: black solid;
+    border-width: 10px;
+}
+
+.box-fb{
+    background-color: rgb(79, 81, 231);
+    padding: 30px 20px;
+    border: black solid;
+    border-width: 10px;
+}
+
+.box-snap{
+    background-color: rgb(200, 222, 0);
+    padding: 30px 20px;
+    border: black solid;
+    border-width: 10px;
+}
+
+.table{
+    text-align: center;
+}
+
+.hr-demas{
+    margin: 50px 0px;
+}
+
+#autor{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: auto;
+    border-style: ridge;
+    border-width: 3px;
+    line-height: 1em;
+}
+
+#texto-autor{
+    text-align: center;
+}
+
+.inicio-fin{
+    background: rgb(8, 126, 24);
+    border-color: black;
+    height: 35px;
+    border-width: 3px;
+}
+
+.tablas{
+    text-align: left;
+}
+
+.tabla{
+    margin: auto;
+    padding: auto;
+    align-content: center;
+    padding-left: 40px;
+}
